@@ -1,3 +1,3 @@
-# Caesar-s-cipher.-Encryption-decryption.
+# Caesar_cipher. Encryption/decryption.
 Pet-project посвященный шифрованию/дешифрованию текстовых данных с некоторыми доп. возможностями.
 Реализуется достаточно просто. 
